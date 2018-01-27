@@ -1,6 +1,6 @@
 {
-    "name": "jonnyw/php-phantomjs",
-    "description": "A PHP wrapper for loading pages through PhantomJS",
+    "name": "lucacri/php-phantomjs",
+    "description": "A PHP wrapper for loading pages through PhantomJS - Forked version working with laravel 5.5",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
     "license": "MIT",
@@ -9,6 +9,11 @@
             "name": "Jonny Wenmoth",
             "email": "contact@jonnyw.me",
             "homepage": "http://jonnyw.me/"
+        },
+	{
+            "name": "Luca Critelli",
+            "email": "lucacri.fuffa+github@gmail.com",
+            "homepage": "https://luca.critel.li/"
         }
     ],
     "minimum-stability": "stable",
