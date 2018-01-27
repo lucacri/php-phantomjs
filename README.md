@@ -1,6 +1,8 @@
 PHP PhantomJS
 =============
 
+__This version is a fork in order to work with Laravel 5.5__
+
 PHP PhantomJS is a flexible PHP library to load pages through the PhantomJS 
 headless browser and return the page response. It is handy for testing
 websites that demand javascript support and also supports screen captures.
